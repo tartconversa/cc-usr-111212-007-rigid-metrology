@@ -1,0 +1,11 @@
+{
+  "vector_convention": "column",
+  "proper_rotation": true,
+  "allow_scale": false,
+  "ransac_residual_threshold_mm": 0.1,
+  "ransac_iterations": 100,
+  "seed": 11121207,
+  "rank_relative_tolerance": 1e-09,
+  "bootstrap_repeats": 200,
+  "bootstrap_unit": "group"
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/points.csv",
+    "sha256": "ea31229509bcd46a2439c0c5113bd7859e46b73455ad61c51559d41b896c2c19",
+    "size_bytes": 249
+  },
+  {
+    "path": "fixtures/registration.json",
+    "sha256": "fb61f2260eacb6eb9bc8d042e9aa626fe4315f7df07845323713933f9513d22a",
+    "size_bytes": 267
+  }
+]
